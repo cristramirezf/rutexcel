@@ -10,6 +10,6 @@ Escribe un RUT en la celda A1. Pega la fórmula en cualquier otra celda de la mi
 
 # Cierre
 
-- Si te ayudó la fórmula, puedes darme las gracias por X en [@Chaskon](https://x.com/Chaskon)
+- Si la fórmula te salvó en la pega, puedes darme las gracias por X en [@Chaskon](https://x.com/Chaskon)
   
 - Si quieres ser el master en Excel puedes comprar mi libro en [Apple](https://books.apple.com/cl/book/excel-avanzado-2024/id6450328094) o [Amazon](https://a.co/d/5spQTNj)

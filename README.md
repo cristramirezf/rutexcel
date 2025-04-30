@@ -12,4 +12,4 @@ Escribe un RUT en la celda A1. Pega la fórmula en cualquier otra celda de la mi
 
 - Si la fórmula te salvó en la pega, puedes darme las gracias por X en [@Chaskon](https://x.com/Chaskon)
   
-- Si quieres ser el master en Excel puedes comprar mi libro en [Apple](https://books.apple.com/cl/book/excel-avanzado-2024/id6450328094) o [Amazon](https://a.co/d/5spQTNj)
+- Si quieres ser el master en Excel y ademas prepararte para obtener la certificacion oficial de Microsoft MO-211: Microsoft Excel Expert, puedes comprar mi libro en [Apple](https://books.apple.com/cl/book/excel-avanzado-2024/id6450328094) o [Amazon](https://a.co/d/5spQTNj)

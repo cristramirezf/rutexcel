@@ -1,6 +1,6 @@
-# Dígito verificador de un rut en Excel
+# Dígito verificador de un rut de Chile en Excel
 
-¿Alguna vez necesitaste una fórmula que calcule el DV de un rut en Excel? ¿Googleaste y lo único que encontrabas era usar macros o lenguajes de programación? Entonces llegaste al lugar correcto 😄 Únicamente usando fórmulas de Excel, sin macros.
+¿Alguna vez necesitaste una fórmula que calcule el DV de un rut chileno en Excel? ¿Googleaste y lo único que encontrabas era usar macros o lenguajes de programación? Entonces llegaste al lugar correcto 😄 Únicamente usando fórmulas de Excel, sin macros.
 
 # Uso
 
